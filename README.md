@@ -26,17 +26,17 @@
 
 Skill 内置 30 个视觉母题，并配置 6 张原创参考板。
 
-![建筑表达参考板](assets/reference-boards/m01-m05-architecture.png)
+![建筑表达参考板](assets/reference-boards/m01-m05-architecture.jpg)
 
-![自然资源参考板](assets/reference-boards/m06-m10-nature.png)
+![自然资源参考板](assets/reference-boards/m06-m10-nature.jpg)
 
-![艺术表达参考板](assets/reference-boards/m11-m15-art.png)
+![艺术表达参考板](assets/reference-boards/m11-m15-art.jpg)
 
-![生活方式参考板](assets/reference-boards/m16-m20-lifestyle.png)
+![生活方式参考板](assets/reference-boards/m16-m20-lifestyle.jpg)
 
-![东方与时间参考板](assets/reference-boards/m21-m25-eastern-legacy.png)
+![东方与时间参考板](assets/reference-boards/m21-m25-eastern-legacy.jpg)
 
-![城市与品牌参考板](assets/reference-boards/m26-m30-city-brand.png)
+![城市与品牌参考板](assets/reference-boards/m26-m30-city-brand.jpg)
 
 原创参考板覆盖：建筑宣言、建筑切片、建筑模型、巨幅自然、水岸静境、森林隐居、艺术展览、光影装置、生活方式、当代东方、时间、城市坐标、未来建筑、品牌超级符号、Typography First 等方向。
 
@@ -55,12 +55,12 @@ real-estate-ad-design-skill/
 │   └── openai.yaml
 ├── assets/
 │   └── reference-boards/
-│       ├── m01-m05-architecture.png
-│       ├── m06-m10-nature.png
-│       ├── m11-m15-art.png
-│       ├── m16-m20-lifestyle.png
-│       ├── m21-m25-eastern-legacy.png
-│       └── m26-m30-city-brand.png
+│       ├── m01-m05-architecture.jpg
+│       ├── m06-m10-nature.jpg
+│       ├── m11-m15-art.jpg
+│       ├── m16-m20-lifestyle.jpg
+│       ├── m21-m25-eastern-legacy.jpg
+│       └── m26-m30-city-brand.jpg
 └── references/
     ├── 案例与趋势知识库.md
     └── 视觉母题与执行知识库.md
