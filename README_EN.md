@@ -1,34 +1,38 @@
-# Real Estate Ad Design Skill
+# Real Estate Ad Design Assistant
 
-An AI skill for Chinese real-estate marketing and property communication. It turns incomplete briefs, project assets, and vague feedback into visual directions that designers and image-generation tools can execute.
+An AI skill for real estate marketing and property-service visuals. It turns briefs, source assets and revision feedback into concrete design decisions and finished visuals when supported by the available tools.
 
-## Use cases
+[Use in ChatGPT](https://chatgpt.com/skills?skill_id=6aa1fc62f9608191a4958a5812ac8ce4) · [中文](README.md)
 
-- Key visuals, naming launches, brand campaigns, and value posters
-- Architecture, landscape, clubhouse, service, and location communication
-- Community, seasonal, IP-led, and luxury private-circle events
-- Awards, sales reports, notices, and existing-design revisions
+## What it supports
 
-## What it provides
+Brand campaigns, architectural and landscape value posters, community events, seasonal activities, IP characters, private invitations, award announcements, notices and location graphics.
 
-- Fast brief interpretation with only essential follow-up questions
-- Three meaningfully different concepts
-- Integrated image, typography, information, and logo planning
-- Fidelity controls for buildings, maps, people, awards, logos, and IP
-- Concrete composition, lighting, color, material, character, and prompt specifications
-- Generation, visual QA, and targeted revision workflow
-- Checks for factual accuracy, advertising risk, media consistency, and cliché
+It can deliver concepts, designer handoffs, image-generation instructions and complete visuals. Production capabilities depend on the host environment.
 
-The skill includes 30 text-based visual motifs and execution guidance. It does not bundle generated reference boards or third-party case images.
+## What is inside
 
-## Quick use
+- A decision guide for composition, scale, density, color and relationships between type and imagery.
+- 18 original design studies explaining concrete layouts, why they may work, common failures, corrections and limits. These are teaching scenarios, not real campaign case studies or validated final artwork.
+- Practical guidance for typography, illustration, opaque painting, printmaking and 3D.
+- Asset checks and revision workflows that preserve approved layout, text, color and character identity.
+- A method for researching external references without bundling their images.
 
-```text
-Use $real-estate-ad-design to create three executable horizontal key-visual directions for a luxury residential Christmas private event. Keep people absent or softly blurred, and generate the recommended concept.
-```
+Bright colors, red and gold, rich ornament, group scenes and plain typography are all valid options. The skill selects methods for the task instead of treating one visual style as inherently premium.
 
-See [README.md](README.md) for the full Chinese introduction.
+## Usage
 
-## License
+Skill name: `real-estate-ad-design`  
+Repository name: `real-estate-ad-design-skill`
 
-MIT License. Third-party cases, images, and brand assets discovered during research remain outside this license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+> Use $real-estate-ad-design to create a lively community festival visual. Use the supplied logo and character reference, choose a suitable direction and produce the first draft.
+
+> Keep this layout, title and palette. Change the image to opaque painterly illustration and check that the character proportions remain consistent.
+
+The instructions and design knowledge are primarily written in Chinese. Start with `SKILL.md`; it routes to the relevant references.
+
+## License and limits
+
+Original skill text is available under the [MIT License](LICENSE). External works, fonts and brand assets are not licensed by this repository; see [third-party notices](THIRD_PARTY_NOTICES.md).
+
+No generated reference images or third-party campaign images are bundled. The skill does not guarantee one-shot image quality. Final artwork still needs checks for text, facts, asset rights and applicable requirements.
