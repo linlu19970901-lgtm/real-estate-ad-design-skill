@@ -13,10 +13,12 @@ It can deliver concepts, designer handoffs, image-generation instructions and co
 ## What is inside
 
 - A decision guide for composition, scale, density, color and relationships between type and imagery.
-- 18 original design studies explaining concrete layouts, why they may work, common failures, corrections and limits. These are teaching scenarios, not real campaign case studies or validated final artwork.
+- 42 original design studies explaining concrete layouts, why they may work, common failures, corrections and limits. These are teaching scenarios, not real campaign case studies or validated final artwork.
 - Practical guidance for typography, illustration, opaque painting, printmaking and 3D.
 - Asset checks and revision workflows that preserve approved layout, text, color and character identity.
-- A method for researching external references without bundling their images.
+- Eleven documented 2025–2026 research entries with source dates, representative visual observations and original real-estate adaptations. Work dates and publication dates are distinguished; two entries are media-published campaign samples with unconfirmed design authorship.
+- Eight image–type relationships and ten color/material combinations, plus Chinese headline and cross-format guidance.
+- A method for refreshing external research without bundling images. Recent examples illustrate methods, not a comprehensive trend survey.
 
 Bright colors, red and gold, rich ornament, group scenes and plain typography are all valid options. The skill selects methods for the task instead of treating one visual style as inherently premium.
 
