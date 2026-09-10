@@ -7,7 +7,7 @@ An AI skill for Chinese real-estate advertising and property marketing. It turns
 - Covers key visuals, naming launches, value posters, location graphics, architect portraits, service campaigns, award announcements, notices, and campaign extensions.
 - Produces three meaningfully different concepts with concrete composition, camera, lighting, color, material, typography, logo, post-production, and prompt specifications.
 - Protects factual assets such as buildings, maps, identities, awards, and official logos.
-- Includes 30 visual motifs, six original reference boards, a real-project case index, compliance checks, and an internal 88-point visual-specificity gate.
+- Includes 30 visual motifs, six original reference boards, a live case-research framework, compliance checks, and an internal 88-point visual-specificity gate.
 
 ## Quick use
 
@@ -21,4 +21,4 @@ See [README.md](README.md) for the full Chinese documentation.
 
 ## License
 
-MIT License, excluding third-party case-study images, trademarks, and brand assets referenced in the research library. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+MIT License. Third-party materials discovered during live research remain outside this license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
