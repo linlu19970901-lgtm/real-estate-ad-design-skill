@@ -40,8 +40,8 @@ Temporal ideas such as continuity, future, growth, companionship, renewal and ar
 ## Knowledge base
 
 - 42 original design studies across festivals and IP, brand and commercial work, real assets, sales milestones, product value, seasonal communities and campaign formats.
-- Close reading of 45 positive user references, grouped into transferable method families, plus a dedicated typography and layout study of the same 45 works.
-- Blue cartoon oceans, floral pink haze and stone-plus-metal trim are treated as valid positive paths; media are judged by relationships and execution rather than element names.
+- Close reading of 45 user references, grouped into transferable method families, plus a dedicated typography and layout study of the same 45 works.
+- The references cover ocean IP, emotional festivals, material-led branding, architectural order, cultural archives and red-gold award communication.
 - Documented 2025–2026 observations with source and date distinctions, representative visual analysis and real-estate adaptation boundaries.
 - Guidance for image–type structure, color and material, contemporary aesthetics, real assets, IP, production, revision and visual QA.
 
@@ -49,7 +49,7 @@ References transfer design relationships only. They do not copy project brands, 
 
 ## Principles
 
-Watercolor, photography, opaque painting, 3D and flat graphics; beige, red-gold, black-gold and bright color; people, objects, buildings and art installations are equal candidates. Selection depends on the current content, assets, reading experience and production conditions—not whether a medium is common, previously unsuccessful or recently reused.
+Watercolor, photography, opaque painting, 3D and flat graphics; beige, red-gold, black-gold and bright color; people, objects, buildings and art installations are equal candidates. Selection depends on the current content, assets, reading experience and production conditions. The same medium should still create project-specific differences through composition, form and image–type relationships.
 
 User and medium requirements determine the canvas. When unspecified, a key visual may begin at 16:9, a mobile poster at 9:16 and a Xiaohongshu post at 3:4. Official logos, buildings, maps, awards, numbers and IP are checked against real assets.
 
