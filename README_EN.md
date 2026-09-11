@@ -20,7 +20,7 @@ It can deliver concepts, designer handoffs, image-generation instructions and co
 - Eight image–type relationships and ten color/material combinations, plus Chinese headline and cross-format guidance.
 - A method for refreshing external research without bundling images. Recent examples illustrate methods, not a comprehensive trend survey.
 
-Bright colors, red and gold, rich ornament, group scenes and plain typography are all valid options. The skill selects methods for the task instead of treating one visual style as inherently premium.
+Watercolor, photography, opaque painting, 3D, print graphics, neutral palettes, red-gold, black-gold, bright color, people, objects, buildings and art installations are equal candidates. Each is judged by what it contributes to the current brief, source assets, reading experience and production conditions—not down-ranked because it is common, previously unsuccessful or used in consecutive projects.
 
 ## Usage
 
