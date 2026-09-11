@@ -1,7 +1,7 @@
 interface:
   display_name: 地产广告设计助手
-  short_description: 用构图、字体、色彩与角色设计，完成地产主视觉、海报和定向改稿
-  default_prompt: 使用 $real-estate-ad-design，根据我的需求和素材判断构图、字体与画面风格，直接完成首推主视觉并检查改稿质量。
+  short_description: 以当代图文关系完成地产主视觉、字体版式、IP设计与定向改稿
+  default_prompt: 使用 $real-estate-ad-design，按内容、素材和传播场景完成地产主视觉；需要时先走A/B/C选案流程，并检查字体、版式、IP和成稿质量。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
