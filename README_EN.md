@@ -15,7 +15,7 @@ The goal is not to apply a preset style. It first decides what the audience shou
 
 Production and precision-editing capabilities depend on the host environment.
 
-## Latest design workflow
+## Design workflow
 
 ### A/B/C direction selection
 
