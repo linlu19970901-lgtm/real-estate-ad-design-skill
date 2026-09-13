@@ -21,9 +21,9 @@ Production and precision-editing capabilities depend on the host environment.
 
 When the user asks to “follow the process,” the Skill condenses the brief, presents three meaningfully different directions, recommends one, and pauses for selection before production. If the user requests an immediate draft or has already selected a direction, it proceeds without repeating the proposal stage.
 
-### Default role of refined low-intervention design
+### Add less when the subject already carries the visual
 
-A full-field, low-intervention approach normally appears as direction B. For brand launches, cultural value, luxury imagery, brand statements and project-name reveals, it becomes the default direction A. It is not a fixed beige, black-gold or clay template: photography, a single color field, stone, textile, metal, embossing, seams or continuous light can carry the main visual weight.
+When photography, a single color field, stone, textile, metal, embossing, seams or continuous light already provides visual weight and structure, reduce extra decoration and integrate type and logos precisely. When the image itself is weak, redesign it actively. This method holds no fixed A/B slot.
 
 ### Stable center without mirror symmetry
 
